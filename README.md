@@ -33,8 +33,9 @@ You can even try a combination!
 ```
 
 ##TODO
+* Add Makefile.
 * Make cow's eyes blink.
-* Make it more customizable
+* Make it more customizable.
 * DON'T abandon this project (it happens often).
 
 ##Bugs/Issues
